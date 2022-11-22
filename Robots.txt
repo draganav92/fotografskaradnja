@@ -1,7 +1,0 @@
-User-agent: *
-
-Disallow: /img/vencanje1.jpg
-Disallow: /img/vencanje2.jpg
-Disallow: /img/vencanje3.jpg
-
-

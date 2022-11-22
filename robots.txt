@@ -1,6 +1,4 @@
 User-agent: *
-Disallow: /img/slavlje1.jpg
-Disallow: /img/slavlje2.jpg
-Disallow: /img/slavlje3.jpg
+Disallow: /img/
 
 sitemap: https://draganav92.github.io/fotografskaradnja/sitemap.xml

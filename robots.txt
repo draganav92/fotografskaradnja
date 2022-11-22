@@ -1,4 +1,4 @@
-User Agent: *
+User-Agent: *
 Disallow: /img/slavlje1.jpg
 Disallow: /img/slavlje2.jpg
 Disallow: /img/slavlje3.jpg

@@ -3,4 +3,4 @@ Disallow: /img/slavlje1.jpg
 Disallow: /img/slavlje2.jpg
 Disallow: /img/slavlje3.jpg
 
-sitemap: https://draganav92.github.io/fotografskaradnja/sitemap.xml
+sitemap: https://draganav92.github.io/fotografskaradnja/sitemap.xml/
